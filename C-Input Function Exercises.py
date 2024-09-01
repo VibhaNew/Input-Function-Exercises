@@ -6,3 +6,4 @@ print("Hello",input("What's your name? "),"!")
 # creating a seperate Variable Name1 for Input and using it in a string to print
 Name1=input("Your name: ")
 print("Hello", Name1,"!")
+print("Hello "+Name1+"!") 
